@@ -1,0 +1,5 @@
+Versão 0.0:
+- clonado o arquivo do repositório
+
+Versão 0.1:
+- Ainda não está funcionando a mudança dinâmica de imagens da aba "categorias". Arquivo: mudarBackGroundDinamico.js
